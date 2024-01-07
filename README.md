@@ -1,0 +1,1 @@
+# 1planificador-de-procesos-con-las-pol-ticas-FCFS-y-SRT.
